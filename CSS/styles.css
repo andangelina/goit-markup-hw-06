@@ -1,11 +1,4 @@
-/* doc styles*/
-
-:focus{
-    outline: none;
-  }
-  /* hero hover button color   #188CE8  */
-  
-  :root{
+ :root{
    --main-color: #212121;
    --sub-color:#757575;
    --icon-color: #AFB1B8;
