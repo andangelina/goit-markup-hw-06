@@ -548,7 +548,8 @@
     font-size: 18px;
     line-height: 28px;
     letter-spacing: 0.03em;
-    padding: 63px 24px 91px 24px;
+    padding: 63px 24px;
+    height: 100%;
     color: var(--light-accent-color);
     background-color: rgba(33, 150, 243, 0.9);
     transform: translateY(294px);
