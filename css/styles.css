@@ -639,13 +639,13 @@
   
   .subscription-header{
     display: flex;
-    margin-left: 93px;
   }
   
   .subscription-form{
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin-top: 20px;
   }
   
   .subscription-input {
@@ -654,8 +654,6 @@
     padding-left: 16px;
     height: 50px;
     width: 358px;
-    margin-top: 20px;
-    margin-left:93px;
     font-size: var(--sub-font-size);
     background-color:#2F303A;
     color: var(--light-accent-color);
@@ -684,7 +682,6 @@
     padding: 10px 0px;
     width: 200px;
     margin-left: 12px;
-    margin-top: 20px;
     background-color: var(--dark-accent-color);
     transition-property: background-color;
     transition-duration: 250ms;
